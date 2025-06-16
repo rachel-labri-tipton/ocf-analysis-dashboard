@@ -1,7 +1,7 @@
-# ocf-analysis-dashboard
-Screenshots from a team dashboard I built for Open Climate Fix using Streamlit. 
+# open climate fix performance dashboard 
+Screenshots from a team dashboard I built for Open Climate Fix using Streamlit (Python frontend application) and plotly charts. 
 
-The company is concerned with understanding mean absolute error of multiple models in use. 
+The company is concerned with understanding statistics like mean absolute error of multiple renewable energy predictive models in use. 
 
 <img width="1243" alt="Screenshot 2025-06-16 at 08 48 04" src="https://github.com/user-attachments/assets/a349d4a4-4f59-48c4-87b5-ffe6fd7acc86" />
 
