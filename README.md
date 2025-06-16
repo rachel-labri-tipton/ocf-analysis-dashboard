@@ -21,4 +21,4 @@ One of Open Climate Fix's Models is for a single PV site and there's  view for e
 
 <img width="1223" alt="Screenshot 2025-06-16 at 08 51 01" src="https://github.com/user-attachments/assets/496c3a17-c851-4955-bcbb-ba41d73617aa" />
 
-After leaving OCF, the Dashboard has been expanded to include and continues to be used by the team to include cloud casting images and other satellite data. 
+After leaving OCF, the Dashboard has been expanded and continues to be used by the team to understand model performance and onboard new customers. 
